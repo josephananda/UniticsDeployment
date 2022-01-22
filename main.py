@@ -105,7 +105,7 @@ if __name__ == '__main__':
 
             labels_ipa = np.load('labels_ipa.npy', allow_pickle=True)
             result = labels_ipa[prediction_ipa_idx]
-            st.subheader("TOP 5 RESULTS")
+            st.subheader("TOP 5 RECOMMENDATIONS")
             st.text("Rank 1: " + result[0])
             st.text("Rank 2: " + result[1])
             st.text("Rank 3: " + result[2])
@@ -166,7 +166,7 @@ if __name__ == '__main__':
 
             labels_ipa = np.load('labels_ips.npy', allow_pickle=True)
             result = labels_ipa[prediction_ipa_idx]
-            st.subheader("TOP 5 RESULTS")
+            st.subheader("TOP 5 RECOMMENDATIONS")
             st.text("Rank 1: " + result[0])
             st.text("Rank 2: " + result[1])
             st.text("Rank 3: " + result[2])
