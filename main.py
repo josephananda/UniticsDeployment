@@ -46,12 +46,12 @@ if __name__ == '__main__':
         st.text("")
         st.markdown('<p style="color:Black;"><b>Awards:</b> Build on Asean 2021 Finalist</p>', unsafe_allow_html=True)
         st.text("")
-        st.markdown('<p style="color:Black;"><b>Machine Learning Engineer:</b> Joseph Ananda Sugihdharma</p>',
+        st.markdown('<p style="color:Black;"><b>Machine Learning Engineer:</b> Joseph Ananda S.</p>',
                     unsafe_allow_html=True)
         st.markdown('<p style="color:Black;"><b>UI/UX Designer:</b> Dina Noviana</p>', unsafe_allow_html=True)
         st.markdown('<p style="color:Black;"><b>Infrastructure Engineer:</b> Mohammad Zulfikar</p>',
                     unsafe_allow_html=True)
-        st.markdown('<p style="color:Black;"><b>Web Developer (Frontend):</b> Rangga Adi Satria</p>',
+        st.markdown('<p style="color:Black;"><b>Web Developer (Frontend):</b> Rangga Adi S.</p>',
                     unsafe_allow_html=True)
         st.markdown('<p style="color:Black;"><b>Web Developer (Backend):</b> M. Fikri Mustofa A.</p>',
                     unsafe_allow_html=True)
